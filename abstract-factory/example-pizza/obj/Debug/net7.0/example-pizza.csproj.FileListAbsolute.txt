@@ -1,0 +1,15 @@
+C:\dev\design-patterns\abstract-factory\example-pizza\bin\Debug\net7.0\example-pizza.exe
+C:\dev\design-patterns\abstract-factory\example-pizza\bin\Debug\net7.0\example-pizza.deps.json
+C:\dev\design-patterns\abstract-factory\example-pizza\bin\Debug\net7.0\example-pizza.runtimeconfig.json
+C:\dev\design-patterns\abstract-factory\example-pizza\bin\Debug\net7.0\example-pizza.dll
+C:\dev\design-patterns\abstract-factory\example-pizza\bin\Debug\net7.0\example-pizza.pdb
+C:\dev\design-patterns\abstract-factory\example-pizza\obj\Debug\net7.0\example-pizza.csproj.AssemblyReference.cache
+C:\dev\design-patterns\abstract-factory\example-pizza\obj\Debug\net7.0\example-pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\design-patterns\abstract-factory\example-pizza\obj\Debug\net7.0\example-pizza.AssemblyInfoInputs.cache
+C:\dev\design-patterns\abstract-factory\example-pizza\obj\Debug\net7.0\example-pizza.AssemblyInfo.cs
+C:\dev\design-patterns\abstract-factory\example-pizza\obj\Debug\net7.0\example-pizza.csproj.CoreCompileInputs.cache
+C:\dev\design-patterns\abstract-factory\example-pizza\obj\Debug\net7.0\example-pizza.dll
+C:\dev\design-patterns\abstract-factory\example-pizza\obj\Debug\net7.0\refint\example-pizza.dll
+C:\dev\design-patterns\abstract-factory\example-pizza\obj\Debug\net7.0\example-pizza.pdb
+C:\dev\design-patterns\abstract-factory\example-pizza\obj\Debug\net7.0\example-pizza.genruntimeconfig.cache
+C:\dev\design-patterns\abstract-factory\example-pizza\obj\Debug\net7.0\ref\example-pizza.dll
